@@ -88,8 +88,8 @@ const Introduction = () => {
           </div>
 
           <p className="text-sm sm:text-[18px] my-6 text-white leading-relaxed">
-            I design and build secure, scalable, and modern web applications using Spring Boot and React.js. 
-            With experience in backend APIs and responsive frontend interfaces, I aim to deliver robust and efficient software solutions.
+          Passionate about building modern web applications and transforming complex problems into simple, elegant solutions.
+          I enjoy creating clean, scalable, and user-friendly digital experiences using modern technologies while continuously learning and improving my development skills.
           </p>
 
           {/* Contact Button */}
