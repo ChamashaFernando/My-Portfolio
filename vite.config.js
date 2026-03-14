@@ -11,7 +11,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     // ✅ IMPORTANT for Vercel (fixes 404 white page issue)
-    base: "/",
+    // base: "/",
 
     plugins: [react(), tailwindcss()],
 

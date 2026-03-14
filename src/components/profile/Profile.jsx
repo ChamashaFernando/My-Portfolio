@@ -65,7 +65,7 @@ const Profile = () => {
 
             {/* Download CV Button */}
             <a
-               href="/picto/cv/My-CV.pdf"
+              href="/cv/My-CV.pdf"
               download="Chamasha-Fernando-CV.pdf"
               className="px-6 py-3 rounded-lg border border-gray-600 hover:border-pink-500 hover:text-pink-500 text-gray-300 font-semibold text-sm sm:text-[16px] transition-all duration-300 flex items-center"
             >
