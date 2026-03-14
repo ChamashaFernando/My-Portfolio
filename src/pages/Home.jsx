@@ -4,7 +4,7 @@ import Profile from "../components/profile/Profile";
 import Portfolio from "../components/portfolio/Portfolio";
 import Contact from "../components/contact/Contact";
 import Skills from "../components/skills/Skills";
-import "../../index.css";
+// import "../../index.css";
 
 const Home = () => {
   return (

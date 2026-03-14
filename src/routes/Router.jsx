@@ -28,7 +28,6 @@
 
 
 
-
 import { lazy, Suspense } from "react";
 import { createBrowserRouter } from "react-router-dom";
 import Loading from "../components/common/loading/Loading";
