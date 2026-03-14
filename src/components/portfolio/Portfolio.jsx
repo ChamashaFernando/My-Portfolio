@@ -27,7 +27,7 @@ const projectsData = [
   },
   {
     id: 4,
-    name: "TravelBuddy Chatbot",
+    name: "MedLink Online",
     description: "Online doctor channeling system using React and Spring Boot.",
     github: "https://github.com/ChamashaFernando/channelling-center",
     demo: "#",
